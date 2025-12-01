@@ -59,7 +59,6 @@ Illustrates the console output with ratio comparisons and overall symmetry score
 
 - Clone the repository:
 
-
 ```bash
 git clone https://github.com/shreeramparab/face-recognition-project.git
 cd face-recognition-project 
